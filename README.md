@@ -33,7 +33,7 @@ A CNN consists of multiple layers that learn to detect various image features:
 
 A filter (or kernel) is a small matrix that slides over the input image and performs element-wise multiplication to produce a feature map. Below is an example:
 
-![Convolution Example](cnn2.svg)
+![Convolution Example](images/cnn2.svg)
 
 ## Applications of CNNs
 
